@@ -1,0 +1,5 @@
+First, Java code is compiled into bytecode. This bytecode gets interpreted on different machines
+
+Between host system and Java source, Bytecode is an intermediary language.
+
+JVM in Java is responsible for allocating memory space.

@@ -1,0 +1,7 @@
+Full form of JVM is Java Virtual Machine. JVM in Java is the engine that drives the Java Code.
+    It converts Java bytecode into machines language.
+JVM architecture in Java contains classloader, memory area, execution engine etc.
+In JVM, Java code is compiled to bytecode. This bytecode gets interpreted on different machines
+JIT stands for Just-in-time compiler. JIT is the part of the Java Virtual Machine (JVM).
+    It is used to speed up the execution time
+In comparison to other compiler machines, JVM in Java may be slow in execution.

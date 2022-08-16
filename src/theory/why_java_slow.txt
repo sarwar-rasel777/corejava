@@ -1,0 +1,7 @@
+Why is Java slow?
+The two main reasons behind the slowness of Java are
+
+Dynamic Linking: Unlike C, linking is done at run-time, every time the program is run in Java.
+Run-time Interpreter: The conversion of byte code into native machine code is done at run-time in Java
+which furthers slows down the speed
+However, the latest version of Java has addressed the performance bottlenecks to a great extent.
